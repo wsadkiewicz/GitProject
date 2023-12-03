@@ -1,0 +1,3 @@
+C:/Users/Weronika/CLionProjects/GitProject/cmake-build-debug/CMakeFiles/GitProject.dir
+C:/Users/Weronika/CLionProjects/GitProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Weronika/CLionProjects/GitProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
